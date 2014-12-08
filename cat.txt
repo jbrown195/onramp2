@@ -1,1 +1,1 @@
-Cats are cooler than dogs.
+ Dogs are cooler than cats.
